@@ -1,0 +1,12 @@
+# Site navigation links
+
+  - title: About
+    url: /about/
+  - title: Academic
+    url: /academic/
+  - title: Publications
+    url: /publications/
+  - title: Blog
+    url: /blog/
+  - title: Other
+    url: /misc/

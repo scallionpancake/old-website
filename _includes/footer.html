@@ -1,0 +1,15 @@
+{% if site.owner.google.ad-client and site.owner.google.ad-slot %}{% include ad-footer.html %}{% endif %}
+
+<div class="social-icons">
+	{% if site.owner.twitter %}<a href="mailto:kuei.steve@rice.edu" title="contact {{ site.owner.name}} by email!" target="_blank"><i class="fa fa-envelope-o"></i></a>{% endif %}
+	{% if site.owner.tumblr %}<a href="https://www.google.com/maps/place/29%C2%B043'15.6%22N+95%C2%B023'58.0%22W/@29.7209984,-95.416954,14z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0" title="sector ZZ9 plural Z alpha" target="_blank"><i class="fa fa-map-marker"></i></a>{% endif %}
+	{% if site.owner.facebook %}<a href="http://facebook.com/{{ site.owner.facebook }}" title="{{ site.owner.name}} on Facebook" target="_blank"><i class="fa fa-facebook"></i></a>{% endif %}
+	{% if site.owner.linkedin %}<a href="http://linkedin.com/in/{{ site.owner.linkedin }}" title="{{ site.owner.name}} on LinkedIn" target="_blank"><i class="icon-linkedin icon-2x"></i></a>{% endif %}
+	{% if site.owner.stackexchange %}<a href="{{ site.owner.stackexchange }}" title="{{ site.owner.name}} on StackExchange" target="_blank"><i class="icon-stackexchange icon-2x"></i></a>{% endif %}
+	{% if site.owner.instagram %}<a href="http://youtube.com/user/n3mosum" title="{{ site.owner.name}} on youtube" target="_blank"><i class="fa fa-youtube"></i></a>{% endif %}
+	{% if site.owner.flickr %}<a href="http://www.flickr.com/photos/{{ site.owner.flickr }}" title="{{ site.owner.name}} on Flickr" target="_blank"><i class="icon-flickr icon-2x"></i></a>{% endif %}
+	{% if site.owner.github %}<a href="http://github.com/{{ site.owner.github }}" title="{{ site.owner.name}} on Github" target="_blank"><i class="icon-github icon-2x"></i></a>{% endif %}
+	{% if site.owner.tumblr %}<a href="http://{{ site.owner.tumblr }}.tumblr.com" title="{{ site.owner.name}} on Tumblr" target="_blank"><i class="icon-tumblr icon-2x"></i></a>{% endif %}
+</div><!-- /.social-icons -->
+
+<span>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://mademistakes.com/so-simple/">So Simple Theme</a>.</span>
