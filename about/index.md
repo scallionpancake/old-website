@@ -7,6 +7,7 @@ image:
   feature: lanterns.jpg
   credit: Jane E
 ---
+<div class="align-justify">
 My name is Steve Kuei, and I'm a New Jersey native who has spent the past three years turning partially Texan,
  while working with Professor Lisa Biswal at Rice University. Previously, I was a student
 at Princeton University, in the Department of Chemical and Biological Engineering. 
@@ -18,3 +19,4 @@ Thank you for visiting, and I hope at least one of the pages here piqued your in
 or to come find me in room C112, in Rice University's Abercrombie Labs.
 
 Under construction!
+</div>
