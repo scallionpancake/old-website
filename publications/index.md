@@ -29,21 +29,52 @@ Valdman, David, Paul J. Atzberger, Dezhi Yu, Steve Kuei, and Megan T. Valentine.
 ## presentations:
 
 >“Dynamics and Conformations of Semiflexible Particle Chains Driven By Rotating Magnetic Fields”
+
 Steve Kuei, Sibani Lisa Biswal
 American Institute of Chemical Engineers Annual Meeting. Salt Lake City, UT, Nov. 2015.
 
 >“Conformations of semiflexible magnetic chains under rotating magnetic fields”
+
 Steve Kuei, Sibani Lisa Biswal
 ACS 89th Colloid & Surface Science Symposium. Pittsburgh, PA, June 2015.
 
 >“Using simple flows to tie knots in flexible fibers”
+
 Steve Kuei, Chris Sadlej, Howard Stone
 APS 65th Annual Division of Fluids Dynamics Meeting. San Diego, CA, November 2012.
 
 >“Spectral analysis methods for flexural rigidity measurements”
+
 Steve Kuei, Dezhi Yu, Megan Valentine
 RISE Summer Research Colloqium. Santa Barbara, CA, August 2011.
 
 >“Polymer crystallization on curved surfaces”
+
 Steve Kuei, Lynn Loo
 PEI Summer of Learning Symposium. Princeton, NJ, Sept 2010.
+
+testing formatting:
+
+# header
+
+## second header
+
+### third header?
+
+> block quote
+>
+> another paragraph in blockquote
+>
+> ## header 2 in quote
+
+using *asterisks* to highlihgt text, or _underscores_ to emphasize
+
+A First Level Header
+====================
+
+A Second Level Header
+---------------------
+
+Now is the time for all good men to come to
+the aid of their country. This is just a
+regular paragraph.
