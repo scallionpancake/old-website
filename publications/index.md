@@ -61,20 +61,14 @@ testing formatting:
 
 ### third header?
 
+#### testing 4th header with helvetica!
+
 > block quote
 >
 > another paragraph in blockquote
 >
+> # header 1 in quote
+>
 > ## header 2 in quote
 
-using *asterisks* to highlihgt text, or _underscores_ to emphasize
-
-A First Level Header
-====================
-
-A Second Level Header
----------------------
-
-Now is the time for all good men to come to
-the aid of their country. This is just a
-regular paragraph.
+using *asterisks* to highlight text, or _underscores_ to emphasize
