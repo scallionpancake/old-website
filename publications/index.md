@@ -51,7 +51,7 @@ testing formatting:
 
 ### third header?
 
-#### testing 4th header with helvetica!
+#### testing 4th header with helvetica
 
 > block quote
 >
