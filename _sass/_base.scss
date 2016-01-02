@@ -68,17 +68,15 @@ h3 {
 	@include font-size(16);
 }
 h4 {
-	font-family: $helvetica;
-	font-size(24);
-	text-rendering: optimizeLegibility;
+	@include font-size(24);
 }
 
-/* h5 {
+h5 {
 	@include font-size(20);
 }
 h6 {
 	@include font-size(18);
-} */
+}
 
 /* underlined text */
 
