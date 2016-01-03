@@ -20,6 +20,7 @@
 /* feature image */
 
 .entry-feature-image {
+	position: fixed;
 	margin: 20px 0 0;
 	width: 100%;
 	@include media($medium) {
