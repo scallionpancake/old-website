@@ -1,5 +1,5 @@
 ---
-layout: pagesk
+layout: pagesktop
 title: About
 tags: [me, myself, i]
 modified: 2015-12-25
@@ -23,6 +23,6 @@ Thank you for visiting, and I hope at least one of the pages here piqued your in
 or to come find me in room C112, in Rice University's Abercrombie Laboratory.
 </div></p>
 
-<p><div align="justify">
+<p>
 <a markdown="0" href="files/resume_102615_sk_long.pdf" class="btn">CV</a>
-</div></p>
+</p>

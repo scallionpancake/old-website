@@ -25,9 +25,9 @@ I primarily work in the field of single fiber dynamics - the study of the detail
   filaments as they are driven by external fields or flow, with particular emphasis on dynamical conformation changes and topological changes.
   </div></p>
 
- <p><div align="center">
+ <p>
   <a markdown="0" href="{{ site.url }}/publications" class="btn">Publications</a>
-  </div></p>
+  </p>
   
 ## Education
   
@@ -54,6 +54,6 @@ As I am pursuing academia and teaching as a career, I am often in the classroom 
  </div></p>
 
  dead link below - under construction! teaching experiences, lecture notes, etc.
-   <p><div align="center">
+   <p>
   <a markdown="0" href="{{ site.url }}/misc" class="btn">Teaching</a>
-  </div></p>
+  </p>
