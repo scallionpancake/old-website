@@ -8,7 +8,7 @@ image:
   credit: Jane E
 ---
 <p><div align="justify">
-My name is Steve Kuei; I'm a New Jersey native who has spent the past three years turning partially Texan,
+My name is Steve Kuei; I'm a New Jersey native who has spent the past three years pretending to be Texan,
  while working with Professor Lisa Biswal at Rice University. Previously, I was a student
 at Princeton University, in the Department of Chemical and Biological Engineering. 
 </div></p>
@@ -19,7 +19,7 @@ As such, this site has everything from purely academic pursuits to origami and s
 </div></p>
 
 <p><div align="justify">
-Thank you for visiting, and I hope at least one of the pages here piqued your interest! Feel free to contact me at <a href="mailto:kuei.steve@rice.edu">kuei.steve@rice.edu</a>
+Thank you for visiting, and I hope at least one of the pages here piques your interest! Feel free to contact me at <a href="mailto:kuei.steve@rice.edu">kuei.steve@rice.edu</a>
 or to come find me in room C112, in Rice University's Abercrombie Laboratory.
 </div></p>
 

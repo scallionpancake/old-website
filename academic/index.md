@@ -16,12 +16,12 @@ under construction!
 I primarily work in the field of single fiber dynamics - the study of the details of fiber motion when driven by external means.
  The dynamics of stiff and flexible filaments in flow is relevant for both naturally occurring and industrially relevant phenomena, 
  such as flagellar motion and polymer processing. However, the connection between a fiber’s elastic properties, the external driving forces,
- and its eventual dynamics is not well understood.
+ and its eventual dynamics and bulk properties is not well understood.
  </div></p>
 
 <p><div align="justify">
  Through an experimental, colloidal polymer model, as well as Brownian Dynamics simulation, I am probing the motion of semiflexible and flexible
-  filaments as they are driven by external fields or flow, with particular emphasis on dynamical conformation changes and topological changes.
+  filaments as they are driven by external fields or flow, with particular emphasis on dynamical conformations and topological changes.
   </div></p>
 
  <p>
