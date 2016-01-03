@@ -1,12 +1,12 @@
 ---
 layout: page
-permalink: /misc/
+permalink: /origami/
 title: Other pursuits
-tags: [dance, origami, hip-hop, diabolo, chinese, yoyo]
+tags: [origami]
 modified: 2015-12-25
 image:
-  feature: freeze.jpg
-  credit: Ingrid Mong
+  feature: k2.jpg
+  credit: Steve Kuei
 ---
 <div align="justify"> 
 under construction!

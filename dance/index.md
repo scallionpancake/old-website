@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /misc/
-title: Other pursuits
-tags: [dance, origami, hip-hop, diabolo, chinese, yoyo]
+permalink: /dance/
+title: dance dance dance
+tags: [dance, hip-hop, choreography]
 modified: 2015-12-25
 image:
   feature: freeze.jpg
