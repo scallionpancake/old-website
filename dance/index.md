@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: title
 permalink: /dance/
 title: dance dance dance
 tags: [dance, hip-hop, choreography]
