@@ -10,8 +10,6 @@ image:
  
 under construction!
 
-research interests, previous labs, teaching, etc.
-
 ## research interests
 
 <p><div align="justify">

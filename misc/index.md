@@ -9,13 +9,13 @@ image:
   credit: Ingrid Mong
 ---
 <div align="justify"> 
-under construction!
+under construction! dance, choreography, origami, chinese yoyo/diabolo will go here.
 </div>
 
 <figure class="half">
-	<a href="{{ site.url }}/dance"><img src="{{ site.url }}/images/bar1.jpg" alt="image"></a>
-	<a href="{{ site.url }}/origami"><img src="{{ site.url }}/images/bar2.jpg" alt="image"></a>
-	<a href="{{ site.url }}/diabolo"><img src="{{ site.url }}/images/bar3.jpg" alt="image">
-	<a href="{{ site.url }}/dance"><img src="{{ site.url }}/images/bar4.jpg" alt="image">
-	<figcaption>Two images.</figcaption>
+	<a href="{{ site.url }}"><img src="{{ site.url }}/images/bar1.jpg" alt="image"></a>
+	<a href="{{ site.url }}"><img src="{{ site.url }}/images/bar2.jpg" alt="image"></a>
+	<a href="{{ site.url }}"><img src="{{ site.url }}/images/bar3.jpg" alt="image">
+	<a href="{{ site.url }}"><img src="{{ site.url }}/images/bar4.jpg" alt="image">
+	<figcaption>placeholders for now!.</figcaption>
 </figure>
