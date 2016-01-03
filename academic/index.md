@@ -52,7 +52,7 @@ As I am pursuing academia and teaching as a career, I am often in the classroom 
  we are organizing workshops and other methods for educators across campus to train various classroom skills.
  </div></p>
 
- dead link below - under construction! teaching experiences, lecture notes, etc.
+ dead link below - under construction! classes, lecture notes, etc.
    <p>
   <a markdown="0" href="{{ site.url }}/misc" class="btn">Teaching</a>
   </p>
