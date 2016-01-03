@@ -26,7 +26,7 @@
 		margin-top: -244px; /* move up to top. 0 = bottom of logo, -75 is middle of site logo, -244 is top of page */
 	}
 	@include media($large) {
-		margin-top: -244px; /* move up further to be overlapped by site logo */
+		margin-top: -294px; /* move up further to be overlapped by site logo */
 	}
 }
 

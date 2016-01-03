@@ -1,10 +1,11 @@
 ---
-layout: pagesk
+layout: pagesktop
 permalink: /academic/
 title: Research Interests
 tags: [academic, research, colloids, publications, papers]
 modified: 2015-12-25
-
+image:
+  feature: k2.jpg
 ---
  
 under construction!
