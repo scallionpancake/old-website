@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pagesk
 permalink: /misc/
 title: Other pursuits
 tags: [dance, origami, hip-hop, diabolo, chinese, yoyo]

@@ -7,22 +7,22 @@ image:
   feature: lanterns.jpg
   credit: Jane E
 ---
-<div align="justify">
-My name is Steve Kuei, and I'm a New Jersey native who has spent the past three years turning partially Texan,
+<p><div align="justify">
+My name is Steve Kuei; I'm a New Jersey native who has spent the past three years turning partially Texan,
  while working with Professor Lisa Biswal at Rice University. Previously, I was a student
 at Princeton University, in the Department of Chemical and Biological Engineering. 
-</div>
+</div></p>
 
-<div align="justify">
+<p><div align="justify">
 I live by the phrase, "什麽略懂一些，生活就彩虹一些"; loosely translated, "if you learn a little bit of everything, your life will be that much more colorful."
 As such, this site has everything from purely academic pursuits to origami and street dance. 
-</div>
+</div></p>
 
-<div align="justify">
-Thank you for visiting, and I hope at least one of the pages here piqued your interest! Feel free to contact me at [kuei.steve@rice.edu](mailto:kuei.steve@rice.edu)
+<p><div align="justify">
+Thank you for visiting, and I hope at least one of the pages here piqued your interest! Feel free to contact me at <a href="mailto:kuei.steve@rice.edu">kuei.steve@rice.edu</a>
 or to come find me in room C112, in Rice University's Abercrombie Laboratory.
-</div>
+</div></p>
 
-<div align="justify">
+<p><div align="justify">
 <a markdown="0" href="files/resume_102615_sk_long.pdf" class="btn">CV</a>
-</div>
+</div></p>
