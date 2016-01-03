@@ -13,9 +13,9 @@ under construction!
 </div>
 
 <figure class="half">
-	<a href="http://placehold.it/1200x600.jpg"><img src="bar1.jpg" alt="image"></a>
-	<a href="http://placehold.it/1200x600.jpg"><img src="bar2" alt="image"></a>
-	<img src="bar3" alt="image">
-	<img src="bar4.jpg" alt="image">
+	<a href="{{ site.url }}/dance"><img src="images/bar1.jpg" alt="image"></a>
+	<a href="{{ site.url }}/origami"><img src="images/bar2.jpg" alt="image"></a>
+	<a href="{{ site.url }}/diabolo"><img src="images/bar3.jpg" alt="image">
+	<a href="{{ site.url }}/dance"><img src="images/bar4.jpg" alt="image">
 	<figcaption>Two images.</figcaption>
 </figure>
