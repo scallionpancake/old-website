@@ -24,5 +24,5 @@ or to come find me in room C112, in Rice University's Abercrombie Laboratory.
 </div></p>
 
 <p>
-<a markdown="0" href="{{ site.url }}/files/resume_010116_sk_short.pdf" class="btn">CV</a>
+<a markdown="0" href="{{ site.url }}/files/resume_032016_sk_short.pdf" class="btn">CV</a>
 </p>
