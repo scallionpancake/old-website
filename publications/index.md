@@ -26,22 +26,34 @@ doi:10.1016/j.bpj.2012.01.045
 
 ## presentations:
 
+> ##### Poster: “Rotational regimes nad dynamics of colloidal particle chains”
+> Steve Kuei, Sibani Lisa Biswal.
+> *ACS 90th Colloid & Surface Science Symposium. Boston, MA, June 2016.*
+
+> ##### “Conformations and dynamical regimes of rotating elastic filaments”
+> Steve Kuei, Sibani Lisa Biswal.
+> *ACS 90th Colloid & Surface Science Symposium. Boston, MA, June 2016.*
+
+> ##### Poster: “Dynamics and Conformations of Rotating Semiflexible Particle Chains”
+> Steve Kuei, Sibani Lisa Biswal.
+> *Gordon Research Seminar, Gordon Research Conference on Colloidal, Macromolecular and Polyelectrolyte Solutions. Ventura, CA, Feb. 2016.*
+
 > ##### “Dynamics and Conformations of Semiflexible Particle Chains Driven By Rotating Magnetic Fields”
-> Steve Kuei, Sibani Lisa Biswal
+> Steve Kuei, Sibani Lisa Biswal.
 > *American Institute of Chemical Engineers Annual Meeting. Salt Lake City, UT, Nov. 2015.*
 
 > ##### “Conformations of semiflexible magnetic chains under rotating magnetic fields”
-> Steve Kuei, Sibani Lisa Biswal
+> Steve Kuei, Sibani Lisa Biswal.
 > *ACS 89th Colloid & Surface Science Symposium. Pittsburgh, PA, June 2015.*
 
 > ##### “Using simple flows to tie knots in flexible fibers”
-> Steve Kuei, Chris Sadlej, Howard Stone
+> Steve Kuei, Chris Sadlej, Howard Stone.
 > *APS 65th Annual Division of Fluids Dynamics Meeting. San Diego, CA, November 2012.*
 
 > ##### “Spectral analysis methods for flexural rigidity measurements”
-> Steve Kuei, Dezhi Yu, Megan Valentine
+> Steve Kuei, Dezhi Yu, Megan Valentine.
 > *RISE Summer Research Colloqium. Santa Barbara, CA, August 2011.*
 
 > ##### “Polymer crystallization on curved surfaces”
-> Steve Kuei, Lynn Loo
+> Steve Kuei, Lynn Loo.
 > *PEI Summer of Learning Symposium. Princeton, NJ, Sept 2010.*

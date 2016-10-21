@@ -20,7 +20,7 @@ As such, this site has everything from purely academic pursuits to origami and s
 
 <p><div align="justify">
 Thank you for visiting, and I hope at least one of the pages here piques your interest! Feel free to contact me at <a href="mailto:kuei.steve@rice.edu">kuei.steve@rice.edu</a>
-or to come find me in room C112, in Rice University's Abercrombie Laboratory.
+or to come find me in Rice University's George R. Brown Laboratory, in the New Emerging Science and Technology Center.
 </div></p>
 
 <p>

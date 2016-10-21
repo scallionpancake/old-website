@@ -31,8 +31,7 @@ I primarily work in the field of single fiber dynamics - the study of the detail
 ## Education
   
 <p><div align="justify"> 
-I am currently a third year Ph.D candidate in the Department of Chemical and Biomolecular Engineering at Rice University, where I work with
- Professor Lisa Biswal, in the Soft Matter Laboratory. Here, I work with colloidal particle chains as a polymer model, as well as Brownian Dynamics simulations.
+I am currently a fourth year Ph.D candidate in the Department of Chemical and Biomolecular Engineering at Rice University, where I work with Professor Lisa Biswal, in the Soft Matter Laboratory. Here, I work with colloidal particle chains as a polymer model, as well as Brownian Dynamics simulations.
 </div></p> 
 
 <p><div align="justify">
