@@ -13,7 +13,7 @@ under construction! dance, choreography, origami, chinese yoyo/diabolo will go h
 </div>
 
 <figure class="half">
-	<a href="{{ site.url }}"><img src="{{ site.url }}/images/bar_food.jpg" alt="image"></a>
+	<a href="{{ site.url }}/baking"><img src="{{ site.url }}/images/bar_food.jpg" alt="image"></a>
 	<a href="{{ site.url }}"><img src="{{ site.url }}/images/bar_dance.jpg" alt="image"></a>
 	<a href="{{ site.url }}"><img src="{{ site.url }}/images/bar_yoyo.jpg" alt="image">
 	<a href="{{ site.url }}"><img src="{{ site.url }}/images/barorigami.jpg" alt="image">
