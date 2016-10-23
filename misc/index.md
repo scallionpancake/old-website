@@ -17,4 +17,5 @@ under construction! dance, choreography, origami, chinese yoyo/diabolo will go h
 	<a href="{{ site.url }}"><img src="{{ site.url }}/images/bar2.jpg" alt="image"></a>
 	<a href="{{ site.url }}"><img src="{{ site.url }}/images/bar3.jpg" alt="image">
 	<a href="{{ site.url }}"><img src="{{ site.url }}/images/bar4.jpg" alt="image">
+	<figcaption>placeholders for now!</figcaption>
 </figure>
